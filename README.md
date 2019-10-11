@@ -12,8 +12,11 @@ vue+elementUI 快速开发多页面后台，no单页面，no脚手架，no打包
     自行百度这两个框架，即可进入官网进行学习。
 #### 1.项目结构目录
 >src
+
 >>assets(存放第三方资源文件)
+
 >>imgs(存放项目中用到的图片)
+
 >>js
 >>>common.js　　全局配置及公用js
 >>>component.js　　组件文件

@@ -13,20 +13,29 @@ vue+elementUI 快速开发多页面后台，no单页面，no脚手架，no打包
 #### 1.项目结构目录
 >src
 
->>assets(存放第三方资源文件)
+>>assets            --存放第三方资源文件
 
->>imgs(存放项目中用到的图片)
+>>imgs              --存放项目中用到的图片
 
 >>js
->>>common.js　　全局配置及公用js
->>>component.js　　组件文件
->>>component.min.css　　组件样式
+
+>>>common.js　　    --全局配置及公用js
+
+>>>component.js　　 --组件文件
+
+>>>component.min.css--组件样式
 >>
->>pages　　　　　页面目录
->>favicon.ico　　图标
->>index.html　　主页面
->>login.html　　登录页面
->>style.css　　 全局样式
+
+>>pages　　　　　--页面目录
+
+>>favicon.ico　 --图标
+
+>>index.html　　--主页面
+
+>>login.html　　--登录页面
+
+>>style.css　　 --全局样式
+
 #### 2.页面说明
 ##### 2.1每个页面都要引入的资源
 

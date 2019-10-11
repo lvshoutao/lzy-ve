@@ -679,10 +679,11 @@ vue+elementUI 快速开发多页面后台，no单页面，no脚手架，no打包
         */
 
         
+#### 11.展示
+![image](https://github.com/lvshoutao/lzy-ve/blob/master/1.png?raw=true)
 
 
-
-#### 11.demo下载   QQ:290852491
+#### 12.demo下载   QQ:290852491
 
 
 
